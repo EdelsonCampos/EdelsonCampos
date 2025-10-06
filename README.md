@@ -10,7 +10,8 @@
 
 # 🚀💻 Minhas Estatísticas do GitHub
 ## 📊 Estatísticas Gerais
-![](https://github-readme-stats.vercel.app/api?username=EdelsonCampos&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=edelsoncampos&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+
 
 ## 🔥 Streaks de Contribuição
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdelsonCampos&theme=midnight-purple&hide_border=false)<br/>
