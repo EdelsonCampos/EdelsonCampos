@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/edelson-campos-barros-filho" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://thriving-cheesecake-f25273.netlify.app" target="_blank">
+  <a href="https://glowing-kitten-c96783.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%237159c1?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="mailto:edelsonfilho269@gmail.com" target="_blank">
